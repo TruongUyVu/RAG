@@ -1,0 +1,10 @@
+# Môi trường và bí mật
+.env
+__pycache__/
+*.pyc
+
+# Lưu trữ dữ liệu vector DB
+storage/chroma/
+
+# Cấu hình Streamlit cá nhân
+.streamlit/

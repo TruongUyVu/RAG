@@ -1,0 +1,10 @@
+# Các thư viện phục vụ RAG & Xử lý văn bản / OCR Buổi 05
+python-dotenv>=1.0.0
+pymupdf>=1.23.0
+pillow>=10.0.0
+llama-cloud>=0.0.5
+pydantic>=2.0.0
+streamlit>=1.30.0
+pypdf>=3.17.0
+langchain>=0.1.0
+chromadb>=0.4.18

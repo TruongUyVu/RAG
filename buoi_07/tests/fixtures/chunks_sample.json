@@ -1,0 +1,63 @@
+[
+  {
+    "chunk_id": "sample_doc_hierarchical_1",
+    "strategy": "hierarchical",
+    "source": "sample_policy.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Chương I: QUY ĐỊNH CHUNG\nĐiều 1. Phạm vi điều chỉnh\nVăn bản này quy định về quy trình vận hành và quản trị rủi ro hệ thống RAG.",
+    "metadata": {
+      "chapter": "Chương I",
+      "article": "Điều 1",
+      "language": "vi"
+    }
+  },
+  {
+    "chunk_id": "sample_doc_hierarchical_2",
+    "strategy": "hierarchical",
+    "source": "sample_policy.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Điều 2. Đối tượng áp dụng\nÁp dụng đối với các đơn vị kinh doanh và chi nhánh trên toàn hệ thống.",
+    "metadata": {
+      "chapter": "Chương I",
+      "article": "Điều 2",
+      "language": "vi"
+    }
+  },
+  {
+    "chunk_id": "sample_doc_hierarchical_3",
+    "strategy": "hierarchical",
+    "source": "sample_policy.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Điều 3. Nguyên tắc quản trị rủi ro\n1. Tuân thủ tuyệt đối quy định pháp luật.\n2. Minh bạch dữ liệu và đảm bảo an toàn thông tin.",
+    "metadata": {
+      "chapter": "Chương II",
+      "article": "Điều 3",
+      "language": "vi"
+    }
+  },
+  {
+    "chunk_id": "sample_doc_semantic_1",
+    "strategy": "semantic",
+    "source": "sample_guide.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Đoạn 1: Hướng dẫn cấu hình môi trường phát triển ứng dụng tra cứu thông tin tự động.",
+    "metadata": {
+      "language": "vi"
+    }
+  },
+  {
+    "chunk_id": "sample_doc_fixed_1",
+    "strategy": "fixed-size",
+    "source": "sample_guide.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Khối văn bản mẫu kích thước cố định phục vụ kiểm thử đơn vị cho thành phần vector retrieval.",
+    "metadata": {
+      "language": "vi"
+    }
+  }
+]
