@@ -1,0 +1,65 @@
+[
+  {
+    "query_id": "Q01",
+    "question": "Khoản 2 Điều 10 quy định về nghĩa vụ gì của bên vay?",
+    "relevant_chunk_ids": ["chk_adv_002"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q02",
+    "question": "Điều 5 quy định thế nào về việc áp dụng biện pháp bảo đảm tiền vay?",
+    "relevant_chunk_ids": ["chk_adv_001"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q03",
+    "question": "Các quy định về biện pháp giảm thiểu rủi ro nợ xấu và phòng ngừa mất vốn?",
+    "relevant_chunk_ids": ["chk_adv_003", "chk_adv_004"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q04",
+    "question": "Làm thế nào để ngân hàng tránh mất vốn khi bên vay bùng nợ không thanh toán?",
+    "relevant_chunk_ids": ["chk_adv_003", "chk_adv_004"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q05",
+    "question": "Mức trần lãi suất cho vay ngắn hạn bằng đồng Việt Nam được quy định ra sao?",
+    "relevant_chunk_ids": ["chk_adv_005"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q06",
+    "question": "Điều kiện để tổ chức tín dụng xem xét cơ cấu lại thời hạn trả nợ cho khách hàng?",
+    "relevant_chunk_ids": ["chk_adv_006"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q07",
+    "question": "Khoản nợ được gia hạn có được giữ nguyên nhóm nợ hay không?",
+    "relevant_chunk_ids": ["chk_adv_007"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q08",
+    "question": "Quy chuẩn kỹ thuật quốc gia về xử lý chất thải chăn nuôi gia súc năm 2024?",
+    "relevant_chunk_ids": ["chk_adv_008"],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q09",
+    "question": "Hướng dẫn thủ tục cấp hộ chiếu phổ thông trực tuyến cho công dân?",
+    "relevant_chunk_ids": [],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  }
+]

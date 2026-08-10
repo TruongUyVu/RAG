@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "chk_adv_001",
+    "strategy": "fixed-size",
+    "source": "TT_02_2023_NHNN.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Điều 5. Biện pháp bảo đảm tiền vay của tổ chức tín dụng. Tổ chức tín dụng và khách hàng thỏa thuận về việc áp dụng hoặc không áp dụng biện pháp bảo đảm tiền vay theo quy định của pháp luật."
+  },
+  {
+    "chunk_id": "chk_adv_002",
+    "strategy": "hierarchical",
+    "source": "TT_02_2023_NHNN.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Khoản 2 Điều 10. Nghĩa vụ bảo đảm tài sản cho khoản vay. Bên vay phải thực hiện đăng ký giao dịch bảo đảm đối với tài sản thế chấp là bất động sản theo đúng quy định hiện hành của Ngân hàng Nhà nước."
+  },
+  {
+    "chunk_id": "chk_adv_003",
+    "strategy": "semantic",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Khoản 1 Điều 15. Kiểm soát rủi ro tín dụng. Việc thế chấp tài sản nhằm giảm thiểu rủi ro nợ xấu và phòng ngừa khả năng mất vốn của ngân hàng khi bên vay không thực hiện được nghĩa vụ thanh toán."
+  },
+  {
+    "chunk_id": "chk_adv_004",
+    "strategy": "semantic",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Điều 18. Cơ chế phòng vệ thất thoát nguồn vốn. Định chế tài chính yêu cầu tài sản cam kết thế chính là phương án bảo vệ dòng tiền, tránh phát sinh dư nợ quá hạn không thu hồi được."
+  },
+  {
+    "chunk_id": "chk_adv_005",
+    "strategy": "fixed-size",
+    "source": "TT_06_2023_NHNN.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Khoản 3 Điều 7. Lãi suất cho vay ngắn hạn bằng đồng Việt Nam. Lãi suất cho vay thỏa thuận giữa tổ chức tín dụng và khách hàng theo cơ chế thị trường nhưng không vượt quá mức lãi suất tối đa do Thống đốc Ngân hàng Nhà nước quyết định trong từng thời kỳ."
+  },
+  {
+    "chunk_id": "chk_adv_006",
+    "strategy": "hierarchical",
+    "source": "TT_02_2023_NHNN.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Khoản 1 Điều 4. Cơ cấu lại thời hạn trả nợ. Tổ chức tín dụng xem xét cơ cấu lại thời hạn trả nợ đối với số dư nợ gốc và lãi của khoản nợ khi khách hàng đáp ứng đủ các điều kiện theo quy định."
+  },
+  {
+    "chunk_id": "chk_adv_007",
+    "strategy": "semantic",
+    "source": "TT_02_2023_NHNN.pdf",
+    "page_start": 7,
+    "page_end": 7,
+    "text": "Khoản 2 Điều 5. Giữ nguyên nhóm nợ và trích lập dự phòng. Khách hàng được gia hạn nợ vẫn được giữ nguyên nhóm nợ như đã phân loại trước khi cơ cấu."
+  },
+  {
+    "chunk_id": "chk_adv_008",
+    "strategy": "semantic",
+    "source": "TT_99_2024_NNPTNT.pdf",
+    "page_start": 12,
+    "page_end": 12,
+    "text": "Điều 8. Quy chuẩn kỹ thuật quốc gia về bảo vệ môi trường nông thôn và xử lý chất thải chăn nuôi gia súc, gia cầm năm 2024."
+  },
+  {
+    "chunk_id": "chk_adv_009",
+    "strategy": "hierarchical",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 8,
+    "page_end": 8,
+    "text": "Khoản 4 Điều 22. Thẩm quyền duyệt vay. Hội đồng tín dụng quyết định phê duyệt khoản vay có giá trị lớn vượt thẩm quyền của Tổng giám đốc."
+  }
+]
